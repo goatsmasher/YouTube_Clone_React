@@ -6,7 +6,7 @@ import SearchBar from "./components/search_bar";
 import VideoList from "./components/video_list";
 import VideoPlayer from "./components/video_player";
 
-const API_YOUTUBE_KEY = "AIzaSyAkMjCnrsUNeK6YlrE6lO3dDaNk9qkf2a8";
+const API_YOUTUBE_KEY = "KEY";
 
 
 class App extends Component {
