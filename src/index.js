@@ -34,6 +34,7 @@ class App extends Component {
 
 	render() {
 		const videoSearch = _.debounce((term) => {this.videoSearch(term); }, 300);
+		console.log(this.state.videos);
 
 		return (
 			<div>
